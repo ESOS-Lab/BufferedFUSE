@@ -3,7 +3,7 @@ Buffered FUSE
 
 * Maintainer : Sooman Jeong (smartzzz77@gmail.com)
 * Contributor : 
-* Base source code : https://github.com/android/platform_system_core/blob/jb-release/sdcard/sdcard.c 
+* Base source code : https://github.com/android/platform_system_core/blob/kitkat-release/sdcard/sdcard.c 
 
 ### Reference: 
  * Sooman Jeong, Youjip Won, "Buffered FUSE: optimising the Android IO stack for user-level filesystem" , International Journal of Embedded Systems (IJES), Special Issue for Embedded and Ubiquitous Computing, 2014 Vol. 6, No.2/3, pp.95 - 107, doi:10.1504/IJES.2014.063806
