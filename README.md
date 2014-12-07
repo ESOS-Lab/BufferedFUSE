@@ -2,7 +2,7 @@ Buffered FUSE
 ======================
 
 * Maintainer : Sooman Jeong (smartzzz77@gmail.com)
-* Contributor : 
+* Contributor : Hyojun Im (hyojun.im@lge.com)
 * Base source code : https://github.com/android/platform_system_core/blob/kitkat-release/sdcard/sdcard.c 
 
 ### Reference: 
